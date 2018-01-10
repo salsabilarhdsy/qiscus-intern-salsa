@@ -1,1 +1,2 @@
 Ini sebuah kalimat yang berisi kata dan huruf.
+Ini sebuah kata.
